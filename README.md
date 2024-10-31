@@ -52,7 +52,7 @@ Feel free to provide your own list or enpoints, if you would like other endpoint
 ### hashtool
 Use apifuzzer to fuzz through possible api endpoints by running the comands: 
 
-```python Toolbox.py``` and selecting it through the menu or ``python hashtool.py [sha256 hash]```
+```python Toolbox.py``` and selecting it through the menu or ```python hashtool.py [sha256 hash]```
 
 ### known limitations:
 - Only cracks unsalted sha256 hashes
@@ -62,7 +62,7 @@ Use apifuzzer to fuzz through possible api endpoints by running the comands:
 ### crypto_tool
 You can use crypto_tool.py through by running the comands: 
 
-```python Toolbox.py``` and selecting it through the menu or ``python crypto_tool.py```
+```python Toolbox.py``` and selecting it through the menu or ```python crypto_tool.py```
 
 ### Encrypt file:
 To encrypt a file:
