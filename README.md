@@ -39,7 +39,7 @@ You can use Toolbox to start the menu that binds the 3 tools together by running
 ### API fuzzer:
 You can use apifuzzer to fuzz through possible api endpoints by running the comands: 
 
-```python Toolbox.py``` and selecting it through the menu or ``python apifuzzer.py [apiurl]```
+```python Toolbox.py``` and selecting it through the menu.
 
 #### Known limitations:
 1. The pattern recognition for api urls is set to accept the current format: ex. https://api.sr.se/api/v2/.  
@@ -52,7 +52,7 @@ Feel free to provide your own list or enpoints, if you would like other endpoint
 ### hashtool
 Use apifuzzer to fuzz through possible api endpoints by running the comands: 
 
-```python Toolbox.py``` and selecting it through the menu or ```python hashtool.py [sha256 hash]```
+```python Toolbox.py``` and selecting it through the menu.
 
 ### known limitations:
 - Only cracks unsalted sha256 hashes
@@ -62,7 +62,7 @@ Use apifuzzer to fuzz through possible api endpoints by running the comands:
 ### crypto_tool
 You can use crypto_tool.py through by running the comands: 
 
-```python Toolbox.py``` and selecting it through the menu or ```python crypto_tool.py```
+```python Toolbox.py``` and selecting it through the menu.
 
 ### Encrypt file:
 To encrypt a file:
