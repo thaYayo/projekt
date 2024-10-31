@@ -47,7 +47,7 @@ def loop(user_api=None):
         print("API not valid.")
         sys.exit()
 
-    with open("LAPIe&objects.txt", "r", encoding="utf-8") as file:
+    with open("List_API_e&objects.txt", "r", encoding="utf-8") as file:
         for line in file:
             ep = line.strip()
             if not ep:

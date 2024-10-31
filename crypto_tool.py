@@ -9,7 +9,7 @@ import os
 import hashlib
 import base64
 from cryptography.fernet import Fernet
-from projekt.cryptoTool import keygen
+import keygen
 
 
 def pbkdf2_key_from_password(password,salt):
